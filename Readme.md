@@ -1,4 +1,4 @@
-![Cover Bleach Ichigo](Assets/Images/BleachIchigo.jpg)
+![Cover Bleach Ichigo](Assets/Images/BleachIchigo.png)
 
 <h2>Hey! 👋</h2>
 
@@ -9,7 +9,7 @@ I'm Gdhn!
 - Website: PHP, CSS, HTML, and JavScript.
 - Android: Java and Kotlin.
 - Consol: Linux, Python, Go, and CPP.
-- Framework: Codeigniter3, and Laravel.
+- Framework: Codeigniter 3, and Laravel.
 
 <h2>📁 My Project</h2>
 
